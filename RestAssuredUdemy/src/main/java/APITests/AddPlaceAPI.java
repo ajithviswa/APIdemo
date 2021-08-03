@@ -70,5 +70,10 @@ public class AddPlaceAPI {
 		System.out.println("cahnge new made");
 		System.out.println("change new2 made");
 	}
+	
+	public void newCodechange2() {
+		System.out.println("This is a new code change");
+		System.out.println("This should reflect in deveop branch");
+	}
 
 }
