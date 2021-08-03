@@ -64,5 +64,11 @@ public class AddPlaceAPI {
 	public void githubCodechange() {
 		System.out.println("This is a new change");
 	}
+	
+	public void newCodeChange() {
+		
+		System.out.println("cahnge new made");
+		System.out.println("change new2 made");
+	}
 
 }
