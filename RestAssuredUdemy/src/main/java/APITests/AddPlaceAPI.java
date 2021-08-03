@@ -60,5 +60,9 @@ public class AddPlaceAPI {
        System.out.println(obj.getLocation().getLatitude());
        System.out.println(obj.getTypes());
 	}
+	
+	public void githubCodechange() {
+		System.out.println("This is a new change");
+	}
 
 }
